@@ -237,6 +237,7 @@
     .right-icons {
         margin-left: auto; 
         gap: 1rem;
+        margin-right: 1.2rem;
     }
 
     .bi-search,

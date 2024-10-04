@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import "./NavBar.css";
 import logoSolHaus from "../../assets/logoSolHaus.png";
-import { CartWidget } from '../CartWidget/CartWidget';
+import { CartWidget } from './CartWidget';
 
 const NavBar = () => {
   // Estado para el menú hamburguesa
